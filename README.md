@@ -121,6 +121,18 @@ The gimbal runs only in **hover** and **autonomous** modes. It is disabled in ma
 ```
 MARLINv1/
 ├── README.md
+├── LICENSE
+├── logs/
+│   ├── path_logs/
+│   │   ├── path_0001.csv            # Recorded path (motor commands at 10 Hz)
+│   │   ├── path_0002.csv
+│   │   ├── ...
+│   │   └── pathClear.py             # Utility: delete all path log files
+│   └── telemetry_logs/
+│       ├── log_0001.csv             # Telemetry session (sensor data at 1 Hz)
+│       ├── log_0002.csv
+│       ├── ...
+│       └── telemetryClear.py        # Utility: delete all telemetry log files
 └── src/
     ├── main/
     │   └── main.py                  # Production firmware
