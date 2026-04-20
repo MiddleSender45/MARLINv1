@@ -1,0 +1,9 @@
+time_ms,mode,path_planning,heading,cardinal,target,error,left_motor,right_motor,auto_motor,gps_status,lat,lon,alt,sats,acc_x,acc_y,acc_z,gyro_x,gyro_y,gyro_z,encoder_pos
+5649,unknown,False,341.6,N,210,-131.6,1000,1000,1000,NO_DATA,N/A,N/A,N/A,0,-0.03,-0.35,0.91,-4.6,-2.8,-2.0,0
+6651,unknown,False,265.9,W,210,-55.9,1000,1000,1000,FIX,29.875796,-98.485170,308.2,8,-0.01,-0.39,0.92,-3.1,-2.8,-1.9,0
+7767,manual,False,244.1,SW,210,-34.1,1000,1000,1000,NO_DATA,N/A,N/A,N/A,0,-0.00,-0.37,0.91,-3.8,0.4,-0.2,0
+8844,manual,False,238.9,SW,210,-28.9,1000,1000,1000,NO_DATA,N/A,N/A,N/A,0,-0.02,-0.37,0.92,-4.9,-0.3,1.7,0
+9939,manual,False,237.2,SW,210,-27.2,1000,1000,1000,NO_DATA,N/A,N/A,N/A,0,-0.02,-0.37,0.92,-4.7,-3.0,1.0,0
+11038,hover,False,236.2,SW,210,-26.2,1000,1000,1000,NO_DATA,N/A,N/A,N/A,0,-0.06,-0.35,0.95,-5.0,-1.9,0.5,1
+12124,hover,False,235.7,SW,210,-25.7,1000,1000,1000,NO_DATA,N/A,N/A,N/A,0,0.03,-0.38,0.83,-3.0,-3.2,5.3,1
+13217,manual,False,234.3,SW,210,-24.3,1000,1000,1000,NO_DATA,N/A,N/A,N/A,0,-0.04,-0.35,0.91,-4.7,-3.0,0.1,1

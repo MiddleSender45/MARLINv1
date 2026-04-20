@@ -1,0 +1,2 @@
+time_ms,mode,path_planning,heading,cardinal,target,error,left_motor,right_motor,auto_motor,gps_status,lat,lon,alt,sats,acc_x,acc_y,acc_z,gyro_x,gyro_y,gyro_z,encoder_pos
+8023,unknown,False,348.5,N,210,-138.5,1000,1000,1000,NO_FIX,N/A,N/A,N/A,0,-0.01,-0.33,0.91,-4.5,-1.5,-0.8,0
